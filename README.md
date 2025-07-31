@@ -31,8 +31,3 @@ Note: Enjoy!
 🧑‍💻 I made this for fun and for the community. I'm a new full-time creator & student trying to grow — so if you like the tool, consider following me or dropping a donation (no pressure at all!).
 
 📎 No install. No config. Just click and go.
-
-Support my journey: 💸 https://www.paypal.com/ncp/payment/YKTMT6CB4JJMJ
-📺 YouTube: https://youtube.com/@CashMfinMoney
-🎮 Twitch: https://twitch.tv/CashMfinMoney
-📱 TikTok: https://www.tiktok.com/@CashMfinMoney
