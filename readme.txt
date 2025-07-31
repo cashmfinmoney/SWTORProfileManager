@@ -1,7 +1,7 @@
 # SWTORProfileManager
 🎮 CashMfinMoney's SWTOR Profile Manager – FREE TOOL
 
-Hey SWTOR players! I built a simple, no-setup-needed .exe tool that lets you save, load, and manage multiple graphics/settings profiles for SWTOR. Super useful if you switch between different setups (like PvP, raiding, low-end potato mode, etc).
+Hey SWTOR players! I built a simple tool that lets you save, load, and manage multiple graphics/settings profiles for SWTOR. Super useful if you switch between different setups (like PvP, raiding, low-end potato mode, etc).
 
 How to use: 
 1) Run the "compiler.bat" file to create the .exe
