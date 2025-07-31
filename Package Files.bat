@@ -42,7 +42,7 @@ python -m pip install pyinstaller pillow
 REM -- Build the executable --
 echo.
 echo Compiling executable with PyInstaller...
-pyinstaller --noconsole --onefile --icon=avatar_icon.ico --add-data "CashMfinMoney-qrcode.png;." CashMfinMoneysProfileManager.py
+pyinstaller --noconsole --onefile --icon=icon.ico --add-data "CashMfinMoney-qrcode.png;." script.py
 
 echo.
 echo Build complete! Your executable is in the "dist" folder.
