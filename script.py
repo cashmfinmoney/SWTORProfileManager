@@ -21,7 +21,7 @@ APPDATA = Path(os.getenv("LOCALAPPDATA"))
 SETTINGS_DIR = APPDATA / "SWTOR" / "swtor" / "settings"
 PROFILES_DIR = SETTINGS_DIR / "Profiles"
 BASE_FILE = SETTINGS_DIR / "client_settings.ini"
-QR_CODE_PATH = resource_path("CashMfinMoney-qrcode.png")  # Bundled path
+QR_CODE_PATH = resource_path("qrcode.png")  # Bundled path
 
 # Ensure Profiles directory exists
 PROFILES_DIR.mkdir(parents=True, exist_ok=True)
@@ -109,7 +109,7 @@ def open_url(url):
 # --- Splash screen ---
 def show_splash():
     splash = tk.Tk()
-    splash.iconbitmap(resource_path("avatar_icon.ico"))
+    splash.iconbitmap(resource_path("icon.ico"))
     splash.title("CashMfinMoney's SWTOR Profile Manager")
     splash.geometry("500x650")
     splash.configure(padx=20, pady=20)
@@ -162,7 +162,7 @@ def show_main():
     root = tk.Tk()
     root.geometry("400x400")
     root.title("CashMfinMoney's SWTOR Profile Manager")
-    root.iconbitmap(resource_path("avatar_icon.ico"))
+    root.iconbitmap(resource_path("icon.ico"))
     tk.Button(root, text="Save Current as New Profile", command=save_profile).pack()
     tk.Button(root, text="Load Selected Profile", command=load_profile).pack()
     tk.Button(root, text="Delete Selected Profile", command=delete_profile).pack()
