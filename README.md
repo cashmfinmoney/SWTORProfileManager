@@ -3,6 +3,15 @@
 
 Hey SWTOR players! I built a simple, no-setup-needed .exe tool that lets you save, load, and manage multiple graphics/settings profiles for SWTOR. Super useful if you switch between different setups (like PvP, raiding, low-end potato mode, etc).
 
+How to use: 
+1) Run the "compiler.bat" file to create the .exe
+2) Place the "Cash's SWTOR Profile Manager.exe" somewhere convenient.
+3) Run "Cash's SWTOR Profile Manager.exe"
+
+Note: You can save your graphics at any time.
+Note: SWTOR must be closed to load a profile.
+Note: Enjoy!
+
 ✅ Features:
 
 💾 Save your current client_settings.ini as a named profile
